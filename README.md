@@ -8,6 +8,9 @@ Basic functionlities:
  * There are various levels of play.
  
 
+# Images
+![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/MG1.png)
+![Image of SS2](https://github.com/Ayushverma8/Memory-Game/blob/master/MG2.png)
 
 
 
