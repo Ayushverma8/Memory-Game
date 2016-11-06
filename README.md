@@ -1,4 +1,5 @@
-# Memory Game
+
+![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/poster(2).png)
 
 Basic functionlities:
 
