@@ -10,8 +10,9 @@ Basic functionlities:
  
 
 # Images
-!(https://github.com/Ayushverma8/Memory-Game/blob/master/MG1.png)
-!(https://github.com/Ayushverma8/Memory-Game/blob/master/MG2.png)
+![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/MG1.png)
+
+![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/MG2.png)
 
 
 
