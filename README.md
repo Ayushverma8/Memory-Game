@@ -10,14 +10,15 @@ Basic functionlities:
  
 
 # Images
-![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/MG1.png)
-![Image of SS2](https://github.com/Ayushverma8/Memory-Game/blob/master/MG2.png)
+!(https://github.com/Ayushverma8/Memory-Game/blob/master/MG1.png)
+!(https://github.com/Ayushverma8/Memory-Game/blob/master/MG2.png)
 
 
 
 
 
 # Usage
+
 
  How :+1:
 
@@ -27,4 +28,11 @@ $  sudo mongod
 $  node index.js
 
 ```
+# Problem Statement
+
+Download the Problem statement [here](https://github.com/Ayushverma8/Memory-Game/blob/master/Venturesity%20_%20Up%20for%20a%20Challenge_.pdf).
+
+# Team Shinigami's
+![Image of SS1](https://66.media.tumblr.com/avatar_174af6707f98_128.png)
+ 
 
