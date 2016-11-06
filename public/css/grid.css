@@ -1,0 +1,148 @@
+/* reset browser styles */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+
+	display: block;
+}
+body {
+	/*background-size: 100% auto;*/
+	
+	background : url("/img/new.png") 45%;
+	
+        
+        
+        
+	line-height: 1.2;
+}
+ol { 
+	padding-left: 1.4em;
+	list-style: decimal;
+}
+ul {
+	padding-left: 1.4em
+	list-style: square;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} 
+/* end reset browser styles */
+.content {
+
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   align-self:; center;
+   justify-content: center;
+   border: 0.1em solid #F5F5F5;
+   margin: auto;
+}
+#level {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 2em;
+}
+.row {
+   display: -webkit-flex;
+   display: flex;
+   flex-direction: row;
+}
+@media all and (orientation:portrait) {
+	.sq {
+		height: 25vw;
+		width: 25vw;
+	}
+}
+@media all and (orientation:landscape) {
+	.sq {
+		height: 25vh;
+		width: 25vh;
+	}
+}/*
+.sq {
+	background-color: #e46119;
+	border: 0.1em solid #FFFFFF;
+}*/
+#c1 {
+	background-color: #FF0000;
+}
+#c2 {
+	background-color: #00B0F0;
+}
+#c3 {
+	background-color: #C55A11;
+}
+#c4 {
+	background-color: #00B050;
+}
+#c5 {
+	background-color: #7030A0;
+}
+#c6 {
+	background-color: #767171;
+}
+#c7 {
+	background-color: #FFFF00;
+}
+#c8 {
+	background-color: #002060;
+}
+#c9 {
+	background-color: #D806BF;
+}
+
+.round-button {
+	width:10%;
+}
+.round-button-circle {
+	width: 100%;
+	height:0;
+	padding-bottom: 100%;
+  border-radius: 50%;
+	border:10px solid #cfdcec;
+  overflow:hidden;   
+  background: #4679BD; 
+  box-shadow: 0 0 3px gray;
+}
+.round-button-circle:hover {
+	background:#30588e;
+}
+.round-button span {
+  display:block;
+	float:left;
+	width:100%;
+	padding-top:50%;
+  padding-bottom:50%;
+	line-height:1em;
+	margin-top:-0.5em;  
+	text-align:center;
+	color:#e2eaf3;
+  font-family:'Luckiest Guy', cursive;
+  font-size:1em;
+  font-weight:bold;
+	text-decoration:none;
+}
+/*
+#button {
+	display:inline-block;
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 2em;
+	color:#000000;
+	border:1px solid #CCC;
+	background:#606060;
+	box-shadow: 0 0 5px -1px rgba(0,0,0,0.2);
+	cursor:pointer;
+	vertical-align:middle;
+	max-width: 100px;
+	padding: 5px;
+	text-align: center;
+}*/
