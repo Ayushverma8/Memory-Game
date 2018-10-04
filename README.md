@@ -1,12 +1,12 @@
 
 ![Image of SS1](https://github.com/Ayushverma8/Memory-Game/blob/master/poster (2).png)
 
-Basic functionlities:
+Basic functionlities of the game:
 
  * There is a 3 by 3 grid of 9 differently colored squares
  * These squares light up in a random pattern
- * After the pattern is displayed, the user has to indicate what the pattern
- * There are various levels of play.
+ * After the pattern is displayed, the user has to indicate what the pattern is
+ * There are different levels of play.
  
 
 # Images
